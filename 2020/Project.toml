@@ -1,0 +1,12 @@
+name = "AoC2020"
+uuid = "e61e4715-f38a-40ca-b3a9-a234f30c13fa"
+version = "0.1.0"
+authors = ["Flinner Yuu <flinner@nand.sh>"]
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+DelimitedFiles = "1.9.1"
+Test = "1.11.0"
