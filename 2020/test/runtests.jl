@@ -4,4 +4,5 @@ using AoC2020
 
 @testset "Advent of Code 2020" begin
     include("test_day01.jl")
+    include("test_day02.jl")
 end
